@@ -1,5 +1,4 @@
-# Meta Back-End Developer Capstone
-## Steps to run the app
+## Meta Back-End Developer Capstone
 
 ### 1
 
